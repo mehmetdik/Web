@@ -1,0 +1,83 @@
+
+<html>
+<head>
+<title>Galeri</title>
+<style>
+div#alt { margin-bottom:10px; font-family:Tahoma; font-size:14px;}
+ul#ust { width:1200px; margin:5 auto; overflow:hidden; list-style:none; font-family:Tahoma; background-image: url(veri/background.gif); }
+ul#ust li { float:left; margin:0 2px; height:14px; padding:10px 60px 15px 10px;}
+ul#ust li a:link, ul#ust li a:visited { font-weight:bold; color:#0000FF; text-decoration:none; }
+ul#ust li a:hover{ color:black; background-color:#FFF; border:5px inset red;}
+</style>
+</head>
+<body>
+<img src="cooltext1306653296.png" width=100% height=250></img>
+<div id="alt">
+<ul id="ust">
+<li><a href="index.html">Ana Sayfa</a></li>
+<li><a href="web_tarihçemiz.html">Tarihçemiz</a></li>
+<li><a href="web_turistlik yerler.html">Turistlik yerler</a></li>
+<li><a href="web_ilçelerimiz.html">İlçelerimiz</a></li>
+<li><a href="web_galeri.html">Galeri</a></li>
+<li><a href="sanliurfaspor.html">Şanlıurfaspor</a></li>
+<li><a href="web_üniversitemiz.html">Üniversitemiz</a></li>
+<li><a href="web_iletişim.html">İletişim</a></li>
+</ul>
+</div>
+<br>
+<br>
+
+
+<table width=100% height=100% border=3 cellpadding=0 cellspacing=3>
+<tr>
+<td align=left valign=top width=950 height=50><table border=0 cellpadding=0 cellspacing=0>
+<img border=0 SRC="http://t3.gstatic.com/images?q=tbn:ANd9GcSPGW1TlG461t0offArge0yI8pNMRJqrsnWAPVlpGEN2vo0RAifm3-y-hlI" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTV56My_wqsrKbf0qPUDXX9WajMqcrPVjYZtatd4mwBGozZAeOo" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQyWv3D9b2ABLd_gT36J0T_tMRBFfI56cXuhE1l8x54tsraX96N" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcS2aC_mG1_NjsfDNHn39aRCcNEU970lwLqF3v56PjpLYeYVptyaHg" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRBTTjoptjYm7eFXSXLMkipE9aHjfHSya3COX8hxsqmxJe3D9Ge" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSiPGSE5SxuvIbEaP-lCMqi66FHbWIKIWaDm9-4oTVBeodvvYCZjA" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRGsxPA3Uzp1cE958OGrZqihiTfQKlXRUEUYyrrqRLRj1wwqtNBWA" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTerPduXB-2vRkcSWA5B82DZn_kywgX66wBnktdePRmUiorR5PE" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcTM0MsuTFVYwjJ5Oui9sGUSghxWnd84bVBbDfVgEIuGkoNpVSZxew" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTotkrwmr-wv2GYWOaEK45OxwcS56dDgj9IcCBHUDU2vS1uvDt46Q" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTqbXZsblIljYOSxwF-nOhGiVu_Saeaaekh9wp70TEzn2tEftzn" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ0SJB4-h2KHgBd538FZ55eR7dcCTLPDR7nyVbJvKz6UZ3XPS-c" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzy_FD6VeXurkTlhurrX6lwHF5EM1yvm4n0JrumY4R4vaxSXFq" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRzgg29AMllyuxow4IoOq-gGgylmnwBBQNLhpSRrG4eDd_AyAPW" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSdg4G1H92P0vG_FGqh2ml_3ZVWEw2iIrM8sV-BpV6wLcfSeQtaQw" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQDcX1KloeP5nu1g_W01qPlNTiGVWVd75AIJdL2oxkM4FpI_yB-" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT3SXoq3rN06Oxs4wAO_RNLOkQofKwvogftQEhRkIQsgZCDdQbbwQ" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS-PRzszPCeckEogKP57KDPSf0c2IJnA8EEkDoTWuz_2V-dSHQb6w" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSCRWfrEerAqcQIF94ZJS94SrbeltpEKe1Hs5Byz3JvZGOxjhmQLA" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQmM_A8dXnBm9onaKd8hPFWOmKCA-1NagAGhOd38Jy-hEvs2ZKDFw" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTonKTUlAKdNhdj5imJwoZWNIDVo962vdDR1h9NXWGKy3Aseb86" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQS-Ec5uKZMe-VpuSgUkml_iNZhLr4NHU786FFd2UVl9FA1-vQVGQ" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTwpocsj_vo3TptGUogCSwP0qFoEpFHRBmw15Ta_jcEgVmQYb7E2o2HMw" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRo_Kdwzx2gs9hkDn46ctn4hAUElv8-rCBhpXdc8vUtvblO6OPRvHxZYA" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRWH0RUBZUIXAWz9eBe5Zfa1fRo8LP15tJ8bhyow2-DakBPd8-B5AC8bg" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4iLexKxr6A6cXS-_s68Lun4bonQ4nERaTHQqceS-dG7piJweIQ-eMNA" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcRE7elmiaK71S1z3UXEmn6-lYf4nv9_9fwuIBLEdNfomgaWjMjGO7WYeA" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQGV1_jbZN47z7vwLOwH0TjRfDv66Atr38KLnjQEuAWaXc9o26sJx-UVVRs" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcRugpN1eNqDfkBVhGb3MmhqVYBUyZtKAFYXRg26d-r8EABCB7g4V-vUawP0" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSRByyb0CXdczK2lKlGeoxbCq_ag8t6l649zBtBs9-wm2lQaJQj_h_CRX3m" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQIQlaho8n8hHM_Zb_Chpu5e7uQdvxl5aHkjkMWAl8b8SbU_zPeeYr4eI5E" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSj5ctkCHz5PuIEjt24mE8x1FSw3gRBgVJANeXJRpTJHYP4G9zjMqgcEfua" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcS1bkQ3w7umrWj-DwbkXwAQi8lFcYMZZ-fGTBwwqaF6cNTGCq8eC8KL3HGW" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQpls2Hm7aEvOIPZI_mxzAl5fY_tlg8BeUelvLsUNqOqgilFUGb4E9IpCr4" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcT-NKShlNYvWtueEsoraicZhRwxwQHIc0Ao-EQfbZeQk5bQRXb91EnOsEkO" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS0JrW2y6Oax8sbzc8xfKT37BqXgdnVJkhn7HRq0YEpsfW-bfLlclNJvfRg" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSXR3jknLTFFJi7BdukRuoCYlrM1BhlBeh-0o8G6EXhUa0ICnJp" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS2emFA5vdMZSMQe47I5i8q_4WF9OhinT6IxR2SSG6Kh6lNg1vG" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSh1T5mTMmrdnR4oBOtzlxRy81-WjKoIzXoUPJRkVZPqKgNgmvP" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRPanElSGtmetk5RFpZlIZox59V9fMAjCzpil347c5QirER7xCxyw" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcR4vVvZxDQz_tvg9kMUvXyZiD9Omv0IouJEu3MGyvzV0rTw7rN4Yg" width=170 height=104 ></a></td>
+<img border=0 SRC="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRtL-FkTSABdh3rlZ7UcQkg9TAHbkkKqSTfWrlYJYTmHEF0kizHTA" width=170 height=104 ></a></td>
+
+
+</td>
+</tr>
+</table>
+
+</body>
+</html>
