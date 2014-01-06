@@ -1,0 +1,50 @@
+
+<html>
+<head>
+<title>FUTBOL..</title>
+<style>
+div#alt { margin-bottom:10px; font-family:Tahoma; font-size:14px;}
+ul#ust { width:1200px; margin:5 auto; overflow:hidden; list-style:none; font-family:Tahoma; background-image: url(veri/background.gif); }
+ul#ust li { float:left; margin:0 2px; height:14px; padding:10px 60px 15px 10px;}
+ul#ust li a:link, ul#ust li a:visited { font-weight:bold; color:#0000FF; text-decoration:none; }
+ul#ust li a:hover{ color:black; background-color:#FFF; border:5px inset red;}
+</style>
+</head>
+<body>
+<img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQb1vE5gnSdEiffm3Zhcy--DSj5vWheU3NUf5PIjeZEEFhlZwBxOw" width=100% height="290" ></img>
+<div id="alt">
+<ul id="ust">
+<li><a href="index.html">Ana Sayfa</a></li>
+<li><a href="web_tarihçemiz.html">Tarihçemiz</a></li>
+<li><a href="web_turistlik yerler.html">Turistlik yerler</a></li>
+<li><a href="web_ilçelerimiz.html">İlçelerimiz</a></li>
+<li><a href="web_galeri.html">Galeri</a></li>
+<li><a href="sanliurfaspor.html">Şanlıurfaspor</a></li>
+<li><a href="web_üniversitemiz.html">Üniversitemiz</a></li>
+<li><a href="web_iletişim.html">İletişim</a></li>
+</ul>
+</div>
+
+<br><br><br>
+<table border="0">
+<tr>
+<td>
+<iframe src='http://skormix.com/widget_std' width='450' height='600' frameborder='0'  scrolling='auto'></iframe>
+</td>
+<td></iframe><img align="right" src="http://www.sanliurfaspor.org/FileUpload/bs546771/Resim/poster.jpg"></img> </td>
+</tr>
+
+</table>
+<br><br><br>
+<table>
+<tr>
+<td>
+<iframe width="420" height="315" src="http://www.youtube.com/embed/44ENARVCbMk" frameborder="0" allowfullscreen></iframe>
+</td>
+<td><iframe width="560" height="315" src="http://www.youtube.com/embed/tf_6U_ou01w" frameborder="0" allowfullscreen></iframe>
+</td>
+<td><img src="http://www.sporx.com/img/3/2012/sanliurfaspor-bozuyukspor-1-4-3153044_5391_o.jpg"></img></td>
+</tr>
+</table>
+</body>
+</html>
