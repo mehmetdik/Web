@@ -1,0 +1,152 @@
+
+<html>
+<head>
+<title>Hoş Geldiniz   </title>
+<style>
+div#alt { margin-bottom:10px; font-family:Tahoma; font-size:14px;}
+ul#ust { width:1200px; margin:5 auto; overflow:hidden; list-style:none; font-family:Tahoma; background-image: url(veri/background.gif); }
+ul#ust li { float:left; margin:0 2px; height:14px; padding:10px 60px 15px 10px;}
+ul#ust li a:link, ul#ust li a:visited { font-weight:bold; color:#0000FF; text-decoration:none; }
+ul#ust li a:hover{ color:black; background-color:#FFF; border:5px inset red;}
+</style>
+
+
+</head>
+<body >
+
+
+
+<center><a href="http://www.sanliurfa.bel.tr/" target="_blank"><img src="http://www.simresim.com/resim/manzara-resimleri/manzara-066.gif"   width="100%" height=300  title="ŞANLIURFA" border="0"></a><br/><a href="http://kamera.sanliurfa.bel.tr/ap/index.htm" target="_blank">ŞANLIURFA'YI CANLI İZLE</a></center>
+<div id="alt">
+<ul id="ust">
+<li><a href="index.html">Ana Sayfa</a></li>
+<li><a href="web_tarihçemiz.html">Tarihçemiz</a></li>
+<li><a href="web_turistlik yerler.html">Turistlik yerler</a></li>
+<li><a href="web_ilçelerimiz.html">İlçelerimiz</a></li>
+<li><a href="web_galeri.html">Galeri</a></li>
+<li><a href="sanliurfaspor.html">Şanlıurfaspor</a></li>
+<li><a href="web_üniversitemiz.html">Üniversitemiz</a></li>
+<li><a href="web_iletişim.html">İletişim</a></li>
+</ul>
+</div>
+
+
+
+<form action="http://www.google.com/search" method="get"> <input type="text" value="" maxlength="230" size="20" name="q" />
+            <br /> 
+            <input type="submit" value="ARA" />
+            <br /> 
+			
+            <input type="radio" value="" name="sitesearch" />
+            Google Arama
+            <br />
+            <input type="radio" checked="" value="file:///C:/Users/memos/Desktop/Html%C3%B6dev/web_yeniden.html"  name="sitesearch" />
+            Sitemde Arama <br />
+</form>
+
+
+<marquee direction=right><img width=235 height=179 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT2dA2v_12Kd7Y8RdD2Wv_Q4qfANlpHtoauE7wQcH2Dl8D3XpljqbQYB2Sk"/>
+<img width=235 height=179 src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTCsFK3Lr0HdcbOAhEDrRo_jW1s96HIhboONStk3frJLEsvT-xWqtZ8jlBK"/>
+<img width=235 height=179 src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQow3YfCdvWPsmZy5zLTBhvLAHKSYaRnyT_CxP1FWcGBz7-b86wmnepHCME"/>
+<img width=235 height=179 src="http://t3.gstatic.com/images?q=tbn:ANd9GcQTq0ZRB9beZj6zMLaDvGBjHu8h3RQQWFIJ7x4rnqLRvljxECKFHqxF_L_A"/>
+<img width=235 height=179 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWH8yqQrRDy1scFlBnWF8SXc1WcoJAh_kqO96NCDuLrYAHLdxxnjst3v9Q"/>
+<img width=235 height=179 src="http://t0.gstatic.com/images?q=tbn:ANd9GcToNtoX_V6DrGGfyPsvYz1Ze8nukwlDjkMTNBvai6qIDFHlCa5riRo6BXYK"/>
+<img width=235 height=179 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRynmc4WSzcjkjJSmZ28SaBvGq25Q37JkdrxVQJpsFP-ptcuLPFk-1m9l-V"/>
+<img width=235 height=179 src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQd_3I6fGw3PH_2-qqMc0sICXsMEc8VRAlErV0f8X1vdLTE_TSkHw"/>
+</marquee>
+
+
+
+
+<table border=0>
+<tr>
+<td>
+<table  bgcolor=#00CCFF cellpadding=8 border="1">
+<tr>
+<td align="center" >1</td><td><p>Urfa Sıra Geceleri-Ninno...</p><br><audio controls><source src="veri/ninno.mp3" type="audio/mpeg"></audio></td><td>Anonim</td>
+</tr>
+<tr>
+<td align="center">2</td><td><p>Urfalıyam Ezelden...</p><br><audio controls><source src="veri/ezelden.mp3" type="audio/mpeg"></audio></td><td>Kazancı Bedih</td>
+</tr>
+<tr>
+<td align="center">3</td><td><p>Urfaya Paşa Geldi...</p><br><audio controls><source src="veri/pasa.mp3" type="audio/mpeg"></audio></td><td>Yavuz Bingol</td>
+</tr>
+<tr>
+<td align="center">4</td><td><p>Urfanın Etrafı...</p><br><audio controls><source src="veri/etrafi.mp3" type="audio/mpeg"></audio></td><td>Ibrahim Tatlıses</td>
+</tr>
+<tr>
+<td align="center">5</td><td><p>Urfalı Sevmiş...</p><br><audio controls><source src="veri/sevmis.mp3" type="audio/mpeg"></audio></td><td>Alişan</td>
+</tr>
+<tr>
+<td align="center">6</td><td><p>Bir Kulunu Çok Sevdim...</p> <br><audio controls><source src="veri/kul.mp3" type="audio/mpeg"></audio></td><td>İbrahim Tatlıses</td>
+</tr>
+<tr>
+<td align="center">7</td><td><p>Hele bak saçlarıma kar yağdı...</p> <br><audio controls><source src="veri/hele bak.mp3" type="audio/mpeg"></audio></td><td>Anonim</td>
+</tr>
+<tr>
+<td align="center">8</td><td><p>Yalnızım dostlarım...</p> <br><audio controls><source src="veri/yalnızım.mp3" type="audio/mpeg"></audio></td><td>İbrahim Tatlıses</td>
+</tr>
+<tr>
+<td align="center">9</td><td><p>Aramam Sormam Bir Daha...</p> <br><audio controls><source src="veri/aramam.mp3" type="audio/mpeg"></audio></td><td>İbrahim Tatlıses</td>
+</tr>
+<tr>
+<td align="center">10</td><td><p>Senin Yerinede Ben Severim...</p> <br><audio controls><source src="veri/yerinede severim.mp3" type="audio/mpeg"></audio></td><td>Olgun Şimşek</td>
+</tr>
+</table>
+</td>
+<td>
+<table border=0>
+<img width=100 height=100 src="http://www.meleklermekani.com/imagehosting/403314dd158f06e769.jpg"/>
+<h1>Şanlıurfalı Sanatçı Ferhat Göçer İle Röportaj...</h1>
+<p>Şanlıurfalı sanatçı Ferhat Göçer, yeni albümü ile ilgili Radikal'e verdiği röportajda ilk kez siyasetten bahsetti.
+Ferhat Göçer: Siyasete girmeyi düşünüyorum
+ 
+ 
+Ferhat Göçer, Radikal Gazetesi'ne verdiği röportajda, öncelikle yeni albümü 'Kalbe Kiralık Aşklar' hakkında konuştu. Göçer, daha sonra Nazan Özcan'ın sorularını büyük bir açıklıkla  cevapladı. Daha sonra Türkiye gündemine ilişkin yorumlarda bulunan ünlü şarkıcı, "siyasete girmeyi düşünüyorum" dedi.
+ 
+İşte o röportajdan çarpıcı bölümler
+-Urfalısınız, peki Kürt müsünüz?
+ 
+"Evet evet. Güneydoğu'da Kürt meselesinden etkilenmeyen aile yoktur. Sizin ailenizde etkileri var mıydı? Yok çünkü ben İzmit'te bir dağ köyünde büyüdüm. Ben Türkçe büyüdüm. Annem babam sadece kendi aralarında bizim anlamamızı istemedikleri bir şey olduğu zaman konuşurlardı Kürtçe. Benim 12 Eylül'le ilgili hatırladığım, bizim Karabaş'ın beni sırtımdan ısırdığı ve 12 Eylül sabahı İzmit Devlet Hastanesi'nin penceresinden geçen tankları izlerken kuduz aşısı olduğum. Annem babam eğitimci insanlardı. Belki benim bilmediğim, yaşadıkları acı ş
+
+
+eyler de vardır. Ben sonradan idrak ettim durumu."</p>
+<h1 align="center">GÜNCEL ŞANLIURFA HABERLERİ...</h1>
+<tr>
+
+
+<iframe src="http://www.urfahaber24.com/iframe.php?tur=manset&sayi=15&sira=id" scrolling="no" marginwidth="0" marginheight="0" frameborder="1" style="width: 575px; height: 235px"></iframe>
+
+</tr>
+
+<tr>
+
+</tr>
+
+</table >
+<iframe width="420" height="315" src="http://www.youtube.com/embed/yh8jQVzNVwQ" frameborder="0" allowfullscreen></iframe>
+</td>
+</tr>
+
+</table>
+
+
+<center>
+<object classid="clsid:D27CDB6E-AE6D-11cf-96B8-444553540000" codebase="http://download.macromedia.com/pub/shockwave/cabs/flash/swflash.cab#version=6,0,29,0" 
+
+width="220" height="300"><param name="movie" value="http://www.simresim.com/resim/flash-takvim-saat/saat-001.swf"><param name="quality" value="high"><embed 
+
+src="http://www.simresim.com/resim/flash-takvim-saat/saat-001.swf" quality="high" pluginspage="http://www.macromedia.com/go/getflashplayer"
+
+ type="application/x-shockwave-flash" width="220" height="300"></embed></object><br/>Sesi kapatmak için saniyenin üstüne gelin ve tıklayın...<br><a href="http://www.sanliurfa.bel.tr/" target="_blank">ŞANLIURFA</a>
+ </center>
+ 
+ 
+ 
+ 
+ 
+ <p align="right">  <a href="http://www.oggygames.net" style="text-decoration: none" target="_blank"></a></font><br>
+
+ <a href="https://twitter.com/MehmetDik" target=new><img src="http://in.sitekodlari.com/tw/4.png" border="0"></a>
+ </body>
+</html>
