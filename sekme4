@@ -1,0 +1,71 @@
+
+<html>
+<head>
+<title>TARİHÇEMİZ</title>
+<style>
+div#alt { margin-bottom:10px; font-family:Tahoma; font-size:14px;}
+ul#ust { width:1200px; margin:5 auto; overflow:hidden; list-style:none; font-family:Tahoma; background-image: url(veri/background.gif); }
+ul#ust li { float:left; margin:0 2px; height:14px; padding:10px 60px 15px 10px;}
+ul#ust li a:link, ul#ust li a:visited { font-weight:bold; color:#0000FF; text-decoration:none; }
+ul#ust li a:hover{ color:black; background-color:#FFF; border:5px inset red;}
+</style>
+</head>
+<body>
+<img src="http://www.alpbilgeyazilim.com/images/temp/tarihcemiz.jpg" width=100% height=300 ></img>
+<div id="alt">
+<ul id="ust">
+<li><a href="index.html">Ana Sayfa</a></li>
+<li><a href="web_tarihçemiz.html">Tarihçemiz</a></li>
+<li><a href="web_turistlik yerler.html">Turistlik yerler</a></li>
+<li><a href="web_ilçelerimiz.html">İlçelerimiz</a></li>
+<li><a href="web_galeri.html">Galeri</a></li>
+<li><a href="sanliurfaspor.html">Şanlıurfaspor</a></li>
+<li><a href="web_üniversitemiz.html">Üniversitemiz</a></li>
+<li><a href="web_iletişim.html">İletişim</a></li>
+</ul>
+</div>
+<table border=0>
+
+
+<tr>
+<td><img width=300 height=800 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT6UI4a-rGbcDBy52-GAJMvPCTIY4ehcwx-TYUljefHUOlODbpX">
+<img width=300 height=800 src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcRlfrP_2zfclBN8ctypq7k9aVZca7zsHlhH8HF7mzNZx0JBARuo">
+</td>
+<td>
+<h1>Kentin Tarihi</h1>
+<p>
+Arkeolojik bulgulara göre Urfa, dünyanın en eski kenti, insanlık tarihinin başlangıcı, tüm insanlığın ortak ata yurdudur. İl genelinde ortaya çıkan her arkeolojik bulguda tarihin yeniden yazılmasına vesile olup Urfa, tarihe kaynaklık eden şehirdir.
+
+Birçok ilkin Urfa'da başladığı bilimsel olarak kanıtlamıştır. Balıklıgöl'ün yanı başındaki arkeolojik kazılarda ortaya çıkan ve Şanlıurfa Arkeoloji Müzesi'nde sergilenen "11.500 yıllık Dünyanın En Eski Heykeli"; şehir merkezine 17 km mesafedeki, yüzyılımızın en önemli arkeolojik keşfi olarak tanımlanan "11 500 yıllık Dünyanın En Eski Tapınağı"; ilk buğday ve mercimeğin vatanı, figürlerin taşa kazınıp daha sonra tuvale aktarılması ile bir sanat dalı haline gelen resim ve mimarlık tarihinin başlangıcı, dünyada ilk defa hayvanların evcilleştirildiği yer olarak kabul edilen Göbeklitepe ve Göbeklitepe ile aynı döneme ait keşfedilmeyi bekleyen birçok sit alanı, başka örneği olmayan, sadece Urfa'ya ait özgün arkeolojik varlıklardır.
+
+Tespit edilen taşınmaz kültür varlıkları kapsamındaki eser sayısı ile Türkiye'nin ilk üç-dört şehri arasında gösterilen Urfa, "dünyada en çok arkeolojik kazı yapılması gereken yer" niteliğini hala korumaktadır. Urfa taşı ile yapılmış han, hamam, çeşme, cami, minare, kilise, manastır, konak ev, sokak, kabaltılarda özgün geleneksel mimaride, taş süsleme sanatının en güzel örneklerinin uygulandığı Urfa, adeta açık hava müzesidir. Bu özelliğinden dolayıdır ki "Müze Şehir Urfa" olarak da anılır.
+
+Urfa, ilkel dinlerden, çok tanrılı ve tek tanrılı dinlere ait inançların ve bu inançlarla bağlantılı kültürlerin yüzyıllarca yoğrulduğu, kaynaştığı tarihi bir kent olarak kültür ve inanç turizminde birçok peygamberi bağrından çıkarmış; birçok peygamberin uğrak yeri olmuş ve ev sahipliği yapmış, dünyanın en önemli şehirlerinden biridir. Urfa, enbiyası, evliyası, ereni, ermişi ile gönül sultanlarının mekânıdır. Urfa, Dergah Caminde asırlardır yapılan zikir ile önemli bir merkezdir.
+
+Yazılı ve sözlü kaynaklardan aktarılan bilgilere göre Hz. Adem, eşi Hz. Havva ile birlikte hayatının bir evresinde gelip bu bölgede yerleşmiş ve ilk buğdayı Harran ovasında ekerek çiftçilik tarihini buradan başlatmıştır. Bundan dolayı Urfa, buğdaygillerin ve baklagillerin gen merkezidir. Ünlü tarihçi Ebul Farac'a göre Urfa, Nûh tufanından sonra kurulan ilk şehirlerden biridir. Hazreti İbrahim Urfa'da doğmuş. İbrahim Peygamber'in oğlu İshak, baba vasiyetine istinaden Harran'a gelip evlenmiştir. Hz. Yakup, kardeşi İys'in gazabından kaçarak Harran'a gelmiş, Harran'da dayısı kızıyla evlenmiş ve 15 yıl kadar Harran'da çobanlık yapmış, oğlu Hz. Yusuf henüz iki yaşında iken ailesi ile Kenan eline göç etmiştir.
+
+Museviler açısından Urfa, Hz. İbrahim, Hz.Yakup ve Hz. Musa'nın yaşadığı topraklar olması dolayısıyla Arz-ı Mevdut yani Hz. İbrahim'den dolayı vaat edilmiş topraklar içersinde kalan en önemli merkezlerden biridir. Hıristiyanlar açısından Urfa, Hz. İsa'nın kutsadığı bir şehirdir. En kıymetli emanet olan "Kutsal Mendil ve Kefen" Urfa'ya aittir. Bu kıymetli eser İtalya'nın Torino müzesinde "Urfa'ya ait Kutsal Kefen" adiyla sergilenmektedir.
+
+Müslümanlar açısından Urfa, İbrahimî ve Eyyubî bir şehirdir. Hz. İbrahim'in soyundan olan Hz. Eyyub Şam diyarından gelerek Eyyubnebi Beldesi'ne yerleşmiş, bu bölgede sabrın sultanı olmuş, vefatının akabinde bu beldeye defnedilmiştir. Hz. Eyyub'u görmeye gelen Hz. Elyasa, onu göremeden vefat etmiş ve Eyyubnebi beldesine defnedilmiştir. Eyyub'un sabrını miras alan bu şehir, Şuayp Antik Şehri'yle, Mısır'da bir Kıpti'yi öldürüp kaçan Hz. Musa'nın sığınma yeri olmuştur. Hz. Musa, Şuayb peygamberin yanında kalarak çobanlık etmiş ve buradan Tur Dağına çıkmıştır. Hz. İsa bu şehri kutsamış, önem verdiği bu şehre havarilerinden Aday'ı göndererek, Hıristiyanlık'ın bu bölgede yayılmasını sağlamıştır. İnanç önderlerini bağrından çıkaran Urfa, peygamberlere izafe edilen makamları ile tarih boyunca "Peygamberler Şehri" veya "Peygamberler Diyarı" adıyla da anılmaktadır.
+
+Urfa merkeze 44 km. mesafede olan ve son arkeolojik araştırmalarda MÖ.7000 yılına ait bulgular veren tarihi Harran şehri, üç semavi dinin de kabul ettiği Hz. İbrahim'in ata yurdudur. Harran, tarihi süreç içerisinde Mezopotamya'nın ve Önasya'nın en önemli Sin Tapınağı Elhulhul ile Babiller'e, Asurlular'a ve Emeviler'e başkentlik etmiştir. Höyüğü, üniversitesi, camisi, konik kümbet evleri, 3 katlı kalesi ve şehri çevreleyen içinde burçları ve gözetleme kuleleri olan yaklaşık 4 km.lik şehir suru ile geçmişten günümüze ayakta kalan en önemli kültür varlıklarıdır. Tarihi Harran şehri, bağrında taşıdığı kültür varlıklarının yanı sıra tarihte üstlendiği misyonu ile din, kültür, sanat, edebiyat, felsefe, astroloji gibi alanlarda önemli bir merkez olmuştur. Harran'da yetişen âlimlerin, eserleri ve çevirileri, Avrupa medeniyetinin oluşmasında önemli katkılar sağlamıştır. Bu bağlamda Harran, Mezopotamya'nın ve Anadolu'nun Endülüs'üdür. Atomun parçalanabileceği fikrini ilk defa fizikçi Cabir bin Hayyan Harran'da ortaya atmıştır. Cebir ilmi Harran'dan dünyaya yayılmıştır. Harran şehri, girişindeki Şeyh Hayat El-Harrani Türbesi, Hz. Yakub Kuyusu ve çıkışındaki İmam Bakır Türbesi ile var olan kültürel mirasa artı değerler katmaktadır. Bu yüzdendir ki Harran "Dünya Kültür Mirası"na girmesi gereken çok önemli bir kenttir. Güneş'i, Ay'ı ve yıldızları başınızın üstünde hissedebileceğiniz egzotik bir şehirdir.
+
+Harran-Eyyubnebi Turizm yolu güzergâhı üzerindeki Hanel Barur Kervansarayı, Bazda Mağaraları, Çoban Mağaraları; Güneydoğu'nun Efes'i olarak tanımlanan ve ismini Şuayb peygamberden alan Şuayb Antik Şehri; yıldız, ay, güneş ve gezegenlere tapınmanın yaşandığı önemli bir kültür merkezi olan Soğmatar Antik Şehri, SoğmataAntik Şehri'ndeki Hz. Musa Kuyusu ve güzergâhın devamındaki Çimdin Kale, Kızlar Sarayı ile Hz. Eyyub peygamberi, eşi Hz. Rahme'yi ve Hz. Elyesa peygamberi bağrında saklayan Eyyub Nebi beldesi, Harran havzasının en önemli turistik yerlerdir.
+
+Urfa, MS.2.yy. ile 5.yy arasında Yahudi, Hıristiyan, Müslüman ve Sabii âlimlerin ders verdiği Urfa Akademisi ve MS.6.yy. le 13.yy. arasında önemli bir ilim ve bilim merkezi olan Harran Okulu ile dünyaya nam salmıştır. Batı medeniyetinin oluşumunda Latince ve Süryanice'den Arapça'ya yaptığı çevirilerle önemli katkı sağlayan Harran, Süryani dili, yazısı ve edebiyatının doğduğu şehirdir. Sahip olduğu bu zengin kültür mirasından dolayı "Kültür Şehri Urfa" olarak da anılır.
+
+Urfa merkezdeki Halil'ür-Rahman Gölü'nün yanı başındaki Edessa Kenti'nin tamamında erken Roma dönemine ait mağara mezarlar, bu mağaralarda kayaya oyulmuş Süryanice ve Grekçe yazılar, rölyef ve mozaikler bulunmaktadır. MÖ. 3400 yılına ait dünyanın en eski mozaiği Siverek ilçesine bağlı Hasek Höyük'te bulunmuş ve arkeoloji literatürüne girmiştir. Bundan dolayı mozaik tarihi de Urfa'dan başlar. Urfa il genelinde, bir müzeye sığmayacak kadar keşfedilmeyi bekleyen mozaik vardır. Bu antik kent sınırları içerisinde, halk türkülerimizde de adı geçen ortasından Daysan Deresi'nin geçtiği, Halil'ür-Rahman Gölü ve Urfa Kale'siyle buluşan Haleplibahçe'de, yapılan arkeolojik kazılarda on üç odalık bir saray, sarayın içindeki odaların tamamında taban mozaikleri, Daysan Deresi'ne nazır, karşılıklı yapılmış villalar, bu villaların tabanında taban mozaikleri ve hemen yanı başında da yerden ısıtmalı bir hamam ortaya çıkarıldı.. MS. 5.yy'a ait olduğu tahmin edilen Haleplibahçe mozaiklerinde yer alan dört amazon kraliçesinin av sahnesi mozaiği "Savaşçı Amazon Kraliçelerinin, Mozaiğe Resmedilmiş Dünyadaki İlk Örneğidir". Edessa Sarayı taban mozaiklerinde binanın koruyucu tanrısı KTICIC; Troya savaşının ölümsüz kahramanı Aşil; Aşili eğiten mitolojide at adam olarak bilinen KENTEOR KHİRİON; Aşil'in annesi deniz tanrıçası THETİS; Truva atı fikrini ortaya koyarak, Troya'nın fethedilmesini sağlayan efsanevi kahraman ODYESSEUS'un tasvirlerine yer verilmesi, 1 m2'sinde 5000 adet 1 ile 5 mm2 ebadında taş kullanılması, ince ve usta işçiliği, sanat özellikleri ve temalarıyla imparatorluk sanatına eşdeğer olarak görülen dünyanın en kıymetli mozaikleri olarak tanımlandı.
+
+Hava Limanı ve Türkiye'nin en verimli toprağı ile Tarım ve Sanayi Şehri olan Urfa, Karacadağ Kayak Merkezi ile "Kış Turizmi", Karaali Kaplıcaları ile "Termal Turizmi", Karacadağ ve Tek Tek Dağları'ndaki özgün, zengin bitki örtüsü ve hayvanları ile "Doğa-Yayla ve Av Turizmi"; Atatürk Barajı ve Halfeti İlçesi ile "Su Sporları Turizmi", baraj suyunun tutulması dolayısıyla yeni oluşan ve oldukça geniş bir alanı kaplayan Fırat suyuyla buluşan sahil şeritleri ile "Göl ve Sahil Turizmi"; Urfa'ya özgü kelaynak, keklik ve güvercinleri ile "Ornitoloji Turizmi"; geleneksel el sanatları, mutfak zenginliği ve damak lezzeti, dünyaya nam salmış musiki ustaları, yaşanan ve yaşatılan otantik ve mistik yapısıyla "Kültür ve Folklor Turizmi" gibi turizm çeşitliliğinde önemli bir potansiyele sahiptir.
+
+Mezopotamya'nın kalbi olan Urfa, Mezopotamya'ya ve Ortadoğu'ya açılan bir kapıdır ve sahip olduğu potansiyeli ile tarihte olduğu gibi bugün de stratejik önemini korumaktadır.
+
+11 Nisan 1920'deki şanlı direnişinden dolayı Urfa'ya, 1984 yılında Türkiye Büyük Millet Meclisi'nce "Şanlı" unvanı verilmiştir.
+<br><br><br><br><br><br><br><br><br><br><br><br><br><br>
+</p>
+</td>
+</tr>
+</table>
+
+</body>
+</html>
