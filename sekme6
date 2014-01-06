@@ -1,0 +1,76 @@
+
+<html>
+<head>
+<title>HARRAN ÜNİVERSİTESİ...</title>
+<style>
+div#alt { margin-bottom:10px; font-family:Tahoma; font-size:14px;}
+ul#ust { width:1200px; margin:5 auto; overflow:hidden; list-style:none; font-family:Tahoma; background-image: url(veri/background.gif); }
+ul#ust li { float:left; margin:0 2px; height:14px; padding:10px 60px 15px 10px;}
+ul#ust li a:link, ul#ust li a:visited { font-weight:bold; color:#0000FF; text-decoration:none; }
+ul#ust li a:hover{ color:black; background-color:#FFF; border:5px inset red;}
+</style>
+</head>
+<body>
+<img src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQEeBiuLoD8axFQBAHLsADyaR1VPcdoBclD5uoZYgAxuwmvStH1uA" width=100% height=270></img>
+<div id="alt">
+<ul id="ust">
+<li><a href="index.html">Ana Sayfa</a></li>
+<li><a href="web_tarihçemiz.html">Tarihçemiz</a></li>
+<li><a href="web_turistlik yerler.html">Turistlik yerler</a></li>
+<li><a href="web_ilçelerimiz.html">İlçelerimiz</a></li>
+<li><a href="web_galeri.html">Galeri</a></li>
+<li><a href="sanliurfaspor.html">Şanlıurfaspor</a></li>
+<li><a href="web_üniversitemiz.html">Üniversitemiz</a></li>
+<li><a href="web_iletişim.html">İletişim</a></li>
+</ul>
+</div>
+
+<marquee direction=right>
+<img width=235 height=179 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSbv8CN5_Ym_mJw-hy_IWQbhmXOWE0p5Cfx60vnQbdhXIks0JwMsg"/>
+<img width=235 height=179 src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcQeSqiAjorC2pMuwGAk1wNime0-YNeGvX0FVrjZqIIqGHVTZ8YE"/>
+<img width=235 height=179 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR49t72wYQdRFfHnE7_pF4GAd2xU30YYqNS7iTUb8KKYdrW5NR3"/>
+<img width=235 height=179 src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcTsWoXzNx0GPggWTiZhUG2hhFyqgRV9hiy8bBpJTUfY9TadHlzs2g"/>
+<img width=235 height=179 src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTnuy1RFreIFLb2o9VMmn53efPLy27_AyoD53h76wvblQa2TLyz_Q"/>
+<img width=235 height=179 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQmmTrVgVJxlZg_2dY6DCRcqHtTBUay6dCfN49x0WHT2Hd1CJoE"/>
+<img width=235 height=179 src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcTqriIcDkn-vxiUTvvvCRxXEJwJJVCYAPux8tTMlkZzRbxODH7j"/>
+<img width=235 height=179 src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQ1CJlsy4xIDE3wJl146I0uh22bs-4Tx22Vj3vVuS7S7ghsFbJr"/>
+</marquee>
+<div id="content" style="background-color:powderBlue;height:1500px;width:200px;float:right;">
+</div>
+<div id="content" style="background-color:powderBlue;height:1500px;width:200px;float:left;">
+</div>
+<div id="content-header" class="page-header">
+							<h3>Tanıtım</h3>
+						</div>
+						<div class="detail" id="detail">
+							<p>
+	&nbsp;</p>
+<p style="text-align: justify">
+	Harran Üniversitesi'nin yer aldığı Şanlıurfa, günümüzden on bir bin yıl öncesine dayanan tarihiyle Anadolu'nun en eski kentlerinden biridir. Arkeolojik kaynaklarda Bereketli Hilal olarak adlandırılan bölge üzerinde yer alan Şanlıurfa, zengin Anadolu kültürü ile Mezopotamya kültürünün kesişme noktasında bulunduğundan engin bir kültür birikimine sahiptir. Üniversitemize adını veren tarihi Harran Kenti, Şanlıurfa'nın 44 km. güneydoğusunda yer alan, tarihte önemli olaylara sahne olmuş bir kent merkezidir. Bir dönem Emeviler'e başkentlik de yapan Harran'ın asıl önemi İslamiyet öncesinden bu yana önemli bir bilim merkezi olmasından kaynaklanmaktadır. Döneminin üniversitesi sayılan Harran Okulu'nda astronomi, tıp, matematik felsefe ve din alanlarında önemli çalışmalar yapılmıştır. Harran günümüzde de bir turizm beldesi olarak ilgi çekmeye devam etmektedir.&nbsp;<br>
+	<br>
+	Şanlıurfa'nın bir diğer özelliği de dünyanın en büyük bütünleşmiş bölgesel kalkınma projelerinden biri olan Güneydoğu Anadolu Projesinin (GAP) merkezinde yer almasıdır. Şanlıurfa, bu projenin tam olarak hayata geçmesiyle birlikte önemli kazanımlar elde edecektir. Üniversitemiz Türkiye'nin yüksek öğrenim ve bilimsel araştırma standartlarını yükseltmeyi amaçlarken, aynı zamanda GAP'ın başarıya ulaşmasında da son derece önemli bir misyon üstlenmektedir. Bu misyonun unsurları; sosyal ve kültürel değişime öncülük etmek, bilimsel çalışmalar aracılığıyla bölge kalkınmasını desteklemek, bölge dinamiklerinin rasyonel değerlendirilmesine olanak sağlayan bir platform oluşturmak olarak sıralanabilir.&nbsp;</p>
+<p style="text-align: justify">
+	<br>
+	EĞİTİM - ÖĞRETİM</p>
+<p style="text-align: justify">
+	Ülkenin ilerlemesini sağlayacak ilerici, yaratıcı, demokrat, Atatürk ilke ve Devrimlerinin takipçisi, bilimi kendine ilke edinmiş aydın insanlar yetiştirmeyi hedeflemiş olan üniversitemiz, eğitim-öğretim, araştırma ve uygulamada sürekli iyileşme ve gelişmeyi amaçlamaktadır</p>
+<p style="text-align: justify">
+	&nbsp;</p>
+<p style="text-align: justify">
+	Bugün itibariyle Harran Üniversitesinde eğitim-öğretim dili Türkçe'dir. Öğrencilerin her yarıyılda alacakları dersler zorunlu ve seçmeli olmak üzere iki gruba ayrılmaktadır. Öğrenciler, kayıtlı bulundukları bölümün zorunlu derslerini almakla yükümlüdürler. Ancak, Üniversite Senatosunca belirlenen dersler için açılan muafiyet sınavında başarılı olan öğrenciler, o derslerden muaf olurlar. Harran Üniversitesine bağlı meslek yüksekokullarında iki yıllık ön lisans programı, fakülte ve yüksekokullarında ise dört yıllık lisans programları uygulanmaktadır (Tıp Fakültesinde eğitim süresi altı, Veteriner Fakültesinde eğitim süresi beş yıldır). Ayrıca, Sosyal Bilimler, Sağlık Bilimleri ve Fen Bilimleri Enstitülerine bağlı ana bilim dallarında yüksek lisans ve doktora eğitimi yapılmaktadır.&nbsp;&nbsp;</p>
+<p style="text-align: justify">
+	&nbsp;</p>
+<p style="text-align: justify">
+	Harran Üniversitesinde bir eğitim-öğretim yılı, güz ve bahar yarıyılı olmak üzere iki dönemden oluşmaktadır. Tıp ve Veteriner Fakültelerinde eğitim programı yıllık dönemler şeklinde yapılmaktadır. ÖSYM tarafından Harran Üniversitesi bölümlerine ve programlarına yerleştirilen yeni öğrencilerin kayıt işlemleri, Üniversitemiz tarafından ilan edilen tarihler arasında Öğrenci İşleri Dairesi Başkanlığının gözetiminde yapılmaktadır. Ara sınıflardaki öğrenciler ise her yarıyıl başında, akademik takvimde belirtilen süre içinde kayıtlarını yenilemek zorundadırlar. İlgili bölüm başkanlığının önerisi ile fakülte veya yüksekokul yönetim kurulu kararıyla her sınıfa bir akademik danışman atanır. Akademik danışman, öğrenci mezun olana kadar ders alma, sınıf geçme, sınavlar, üniversite ile ilgili yönetmelikler ve eğitim-öğretim ile ilgili çeşitli konularda öğrencilere danışmanlık yapar. Ayrıca Üniversitemizde uzman elemanlar tarafından öğrencilere yönelik psikolojik danışmanlık hizmeti de verilmektedir. Öğrenciler her yarıyılda en az iki ara sınav ve her dönem sonunda yarıyıl sonu sınavına tabi tutulurlar.</p>
+<p style="text-align: justify">
+	Öğrenciler, eşdeğer eğitim programları uygulayan yüksek öğretim kurumları ve kurum içindeki bölüm/programlara "Yüksek Öğretim Kurumları Arasında Önlisans ve Lisans Düzeyinde Yatay Geçiş Esaslarına İlişkin Yönetmelik" uyarınca, eğitim-öğretim başlamadan önce yatay geçiş için başvurulabilir. Üniversitemizde öğrencilerin eğitim-öğretim ve sosyo-kültürel ihtiyaçlarının karşılanmasına ilişkin görüş ve önerilerinden yararlanmak amacıyla oluşturulan öğrenci konseyi, her yıl öğrencilerin seçimiyle yenilenmektedir. Öğrenci Konseyi Başkanı, Rektörün çağrısı üzerine zaman zaman Üniversite Senatosu ve diğer kurullara katılarak öğrencilerin görüş ve önerilerini sunar.</p>
+						</div>
+<iframe width="800" height="400" src="http://www.youtube.com/embed/gQDGbUBvv40" frameborder="0" allowfullscreen></iframe>						
+
+<table>
+<tr>
+<td> </td>
+</tr>
+</table>
+</body>
+</html>
