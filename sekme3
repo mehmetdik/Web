@@ -1,0 +1,259 @@
+
+<html>
+<head>
+<title>İLÇELERİMİZ...</title>
+<style>
+div#alt { margin-bottom:10px; font-family:Tahoma; font-size:14px;}
+ul#ust { width:1200px; margin:5 auto; overflow:hidden; list-style:none; font-family:Tahoma; background-image: url(veri/background.gif); }
+ul#ust li { float:left; margin:0 2px; height:14px; padding:10px 60px 15px 10px;}
+ul#ust li a:link, ul#ust li a:visited { font-weight:bold; color:#0000FF; text-decoration:none; }
+ul#ust li a:hover{ color:black; background-color:#FFF; border:5px inset red;}
+</style>
+</head>
+<body>
+<img src="cooltext1308547965.png" width="100%" height=250  ></img>
+
+<div id="alt">
+<ul id="ust">
+<li><a href="index.html">Ana Sayfa</a></li>
+<li><a href="web_tarihçemiz.html">Tarihçemiz</a></li>
+<li><a href="web_turistlik yerler.html">Turistlik yerler</a></li>
+<li><a href="web_ilçelerimiz.html">İlçelerimiz</a></li>
+<li><a href="web_galeri.html">Galeri</a></li>
+<li><a href="sanliurfaspor.html">Şanlıurfaspor</a></li>
+<li><a href="web_üniversitemiz.html">Üniversitemiz</a></li>
+<li><a href="web_iletişim.html">İletişim</a></li>
+</ul>
+</div>
+<div style=" width:764px;float:left;background-image:url('images/orta_r2_c1_s1.png');padding-left:5px;padding-right:5px;background-repeat:repeat-y;min-height:1750px">
+
+
+
+<h3 style="color:#025075;margin:5px;padding:10px;background-color:#EEEEEE">İlçeler</h3>
+<div style="float:left;padding:5px"><img src="resimler/" alt="" align="right" style="margin:5px;float:right;margin:5px;display:none" width="300" height="200">
+<p>Şanlıurfa, Güneydoğu Anadolu bölgesinde doğuda Mardin, batıda Gaziantep, kuzeyde Adıyaman, kuzeybatıda Diyarbakır illeri ve güneyde Suriye sınırı ile çevrelenmiş bir sınır ilidir. Türkiye’nin Suriye ile en uzun sınırı Şanlıurfa’da bulunmaktadır. Şanlıurfa’da merkez ilçeyle birlikte 10 ilçe, 30 bucak, 1,080 köy ve 1,624 köy altı yerleşim yeri vardır. Ortalama yükseltisi 518 metre olan Şanlıurfa 18,584 kilometrekarelik yüzölçümü ile Türkiye'nin 7. büyük ilidir.</p>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>AKÇAKALE:</strong></p>
+
+			<p><a href="/images/akcakale-1b.jpg"><img alt="" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcT5qF4BC6_ZYpAx8m-M6NvdEv-SmHb4jtKs9M5Z25Oxy-a7OPDC" style="height:150px; width:350px"></a></p>
+			İlçenin 2011 yılı TUİK verilerine göre nüfusu 87 bin 793. 1 bucağı ve 73 köyü vardır. M.Ö.II. asır ortalarında Asur hakimiyetinde olan ilçe; M.Ö. 610'da Med ve Persler'in eline geçmiştir. Büyük İskender'in M.Ö. 331 yılındaki Asya Seferi'nde Makedonya Krallığına katılmış ve İslam dönemine kadar sırayla Seleukoslar, Edessa (Osrhoene) Krallığı, Roma, Bizans ve Sasaniler arasında el değiştirmiştir. Akçakale 640 yılında Şam ordusunun 661 yılında Emevîler'in eline geçti. 750 yılında Emevîler'in ortadan kaldırılması üzerine Abbasi hakimiyetine geçen yöre 1087'de Selçuklular tarafından feth edilmiştir. 1144 yılında Urfa'nın Zengiler tarafından fethedilmesi ile Musul Atabeyliğine bağlanan bölge daha sonra Eyyubilerle Anadolu Selçukluları arasında paylaşılmıştır. 1244 yılında Tatarlar, 1260'da ise Moğollar tarafından tahrib edilen şehir Türkiye-Suriye sınırı çizilmeden önce Tel Ebyâd (Beyaz Tepe) olarak biliniyordu. 1921'de sınır tespitinden sonra Akçakale olarak tanındı ve 1946 yılında ilçe haline getirildi.
+
+			<p>Suriye sınırına sıfır noktasında bulunan Akçakale Gümrük Kapısıyla Suriye’ye açılan tek ticari kapısıdır.</p>
+
+			<p>Yüzölçümü 1952 Km.dir. Denizden yüksekliği 385 Metre olup yükseklik hiç bir yerde 1000 metreyi bulmamaktadır. İlçe doğudan Batıya 85 Km, Kuzeyden Güneye doğru 28 Km.dir. İlçe geneli bir dikdörtgen görünümü verir. Harran Ovası üzerinde kurulan Akçakale Kuzeyden Güneye doğru açılan düz ve geniş bir ova görünümündedir. İlçe Doğuda Ceylanpınar – Viranşehir, Batıda Suruç, Kuzeyde Şanlıurfa – Harran Güneyden Suriye Devleti ile çevrilidir. Yazları sıcak ve kurak, kışları nispeten ılık ve az yağışlı olarak geçer. Temmuz ve Ağustos aylarında ortalama sıcaklık 40 dereceyi geçer. Yine bazı geceler sıcaklık 30 dereceyi aşar. Yörede kar yağışı görülmez. Kışın soğuk hava nadiren 0 derecenin altına düşer. Önemli göl ve akarsuyu yoktur. İlçenin her tarafına her mevsim ulaşmak mümkündür.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td>
+			<p>Akçakale’nin ekonomik yapısı ağırlıklı olarak tarım sektörüne dayanmaktadır.</p>
+
+			<p><strong>BİRECİK:</strong></p>
+
+			<p><a href="/images/birecik-1b.jpg"><img alt="" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcR2nW0qLWHs8xAek5a7695XMY3KQQY29_jsHroAggJgXHuT-puX" style="height:150px; width:350px"></a></p>
+			Fırat nehrinin kıyısında bulunan Birecik’in nüfusu 2011 yılı TUİK verilerine göre nüfusu 90 bin 547.Birecik’in önemli bir özelliği nesli tükenmeye yüz tutan Kelaynak Kuşlarının dünyada doğal olarak yaşadığı belli başlı birkaç yerden biri olmasıdır.
+
+			<p>Birecik yüzey şekillerinin elverişliliği ve Fırat kenarında yer almasından dolayı tarih boyunca önemli yerleşimlere sahne olmuştur. 2. binde Hititlerin elinde bulunan Birecik MÖ 9. yüzyılda Asurların eline geçti. Birecik sırasıyla Pers Makedonya Roma ve Bizans egemenliklerini yaşadı. 780’de Arap işgaline uğradı. 11. Yüzyıl sonralarındaki Selçuklu egemenliğinden sonra yeniden Bizans’ın eline geçti. Artuklu Eyyubi Akkoyunlu ve Karakoyunlu dönemlerini 1502’de başlayan Safevi egemenliği izledi.</p>
+
+			<p>Birecik 1517’de Osmanlı topraklarına katıldı. 1919’da bir süre İngiliz işgalinde kaldı 19. yy. sonralarında Halep vilayetinin Urfa sancağına bağlı bir kaza iken Cumhuriyetle birlikte Şanlıurfa İline bağlandı. Birecik Kalesi kentteki tek önemli tarihsel yapıdır. Asurlar zamanında yapılmış çeşitli dönemlerde onarımdan geçmiştir. Büyük kesme taşlardan yapılmış yüksekliği 30-40 m’yi bulunan duvarları üstünde 12 burç bulunmaktadır. Birecik Belediyesi Cumhuriyet’ten önce kurulmuştur.</p>
+
+			<p>Yüzölçümü 852 km2 olan Birecik ilçesi kuzeyde Halfeti kuzeydoğuda Bozova doğuda Suruç ilçeleri güneyde Suriye batıda Gaziantep iliyle çevrilidir. Birecik sayılan merkezlere karayolu ile bağlanmaktadır. 1956’da Fırat üzerine o dönemde Türkiye’nin en uzun köprülerinden biri olan Birecik Köprüsü’nün yapılmasıyla büyük bir gelişme yaşamıştır.</p>
+
+			<p>İlçedeki temel ekonomik etkinlik tarım ve tarıma dayalı küçük sanayidir. Bitkisel üretim oldukça çeşitlenmiştir. İklimin ve toprakların elverişliliği nedeniyle buğday ve arpa gibi tahılların yanı sıra mercimek pamuk ve antepfıstığı gibi ürünler yetiştirilir. Şanlıurfa ilinde zeytinciliğin en gelişkin olduğu ilçe Birecik’tir. En çok küçükbaş hayvan beslenir; yağ peynir yün yapağı gibi hayvansal ürünler elde edilir. Sanayi başta dokuma ve gıda olmak üzere yetiştirilen tarım ürünlerinin işlenmesine dayanan küçük işyerlerinden oluşur.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>BOZOVA:</strong></p>
+
+			<p><a href="/images/bozova-1b.jpg"><img alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRI3HVBYylhLrOKuIJGU_7Ud9N-VZa5gE7nv_G1nbX92SWLuo9v" style="height:150px; width:350px"></a></p>
+			Atatürk Barajının göl havzasına sıfır olan ilçe’nin nüfusu 2011 yılı TUİK verilerine göre 57 bin 750. Yüzölçümü 1.550 km2. Kuzeyi ve doğusu dağlık, güneyi daha alçak ve düzlüktür. Atatürk Barajı göl kıyısındaki Çatak mevkiinde geniş mesire alanı bulunmaktadır.
+
+			<p>Balıkçılığın giderek yaygınlaştığı Bozova’da Harran üniversitesinin Su ürünleri meslek Yüksek Okulu da mevcuttur. GAP Projesi kapsamında Yaylak Beldesin’de tarımsal sulamaya geçilmiş. Damlama sulama yöntemi yapılmaktadır. Ekonomisi daha çok tarıma ve balıkçılığa dayanmaktadır.</p>
+
+			<p>Bozova ve çevresinde Asurlular döneminde Asuranianu, Romalılar ve Ermeniler döneminde Tormenapa, Araplar döneminde Telhüvek, Türkmenlerin döneminde Yaylak olarak isimlendirilen, tarihi MÖ 7250-5500 yerleşimlerine rastlanılmıştır. Ayrıca 1982 yılında Şanlıurfa Müzesi Müdürlüğünce Bozova İlçesine bağlı Şaşkan (İğdeli) köyü yakınlarındaki küçük ve büyük Şaşkan höyükleri arasında kalan arazide yapılan arkeolojik kazılarda elde edilen bulgulardan bu bölgenin ilk defa günümüzden 7000 yıl önce burada bir yerleşim olduğu ortaya çıkartmıştır.</p>
+
+			<p>Neolitik Çağdan sonraki ilk medeniyet evresi kalkolotik dönem (5500-3200) buluntuları; Şanlıurfanın Bozova ilçesine bağlı Kurban Höyük, Lidar Höyük ve Siverek İlçesine bağlı Hasek Höyük kazılarında tespit edilmiş, ayrıca aynı kazılarda ilk Tunç Çağına ait (MÖ 3200-1800) çok sayıda buluntular ele geçirilmiştir.</p>
+
+			<p>Bozova bölgesi bir süre Makedonyalıların, Roma imparatorluğunun ve Bizans imparatorluğunun eline geçmiştir. 640 yılında Hz. Ömer’in zamanında Übeyt ibni el Cerrah tarafından Urfa’nın fethi ile birlikte İslam topraklarına katılmıştır.</p>
+
+			<p>1402den 1516 yılına kadar devamlı olarak İran Safavileri, Mısır Memlukları ve Osmanlıların arasında el değiştirmiştir.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>CEYLANPINAR:</strong></p>
+
+			<p><a href="/images/ceylanpinar-1b.jpg"><img alt="" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcS7n4KveBYoj3-wXgAyAdYmKICQQVLLEbgEfVagvhNTc-LvXhwowQ" style="height:150px; width:350px"></a></p>
+			Nüfusu 2011 yılı TUİK verilerine göre 76 bin 84,. Şanlıurfa’ya 142 km uzaklıkta yer alan Ceylanpınar Suriye’ye sınırına sıfır noktada bulunmaktadır. 14.01.1982 tarihinde ilçe statüsüne kavuşan Ceylanpınar’ın komşu il ve ilçelere ulaşımı Karayolu ve Demiryolu ile sağlanmaktadır. İlçede 49 yerleşim biri bulunmaktadır.
+
+			<p>Yukarı Mezopotamya’da kurulmuş olan Ceylanpınar’ın tarihi M.Ö. 5000 yıllarına dayanmaktadır. Tarihte Asurlular, Hititler, Abbasiler, Bizans İmparatorluğu, Selçuklu Devleti ve Osmanlı İmparatorluğu izleri bulunan Ceylanpınar’da Meteoroloji tarafından yapılan ölçümlere göre Türkiye’nin en sıcak(47.6 0C) yerlerin başında geliyor.</p>
+
+			<p>Meteoroloji istasyonun koordinatlarına göre ilçe merkezi 36 derce 50 dakika kuzey enlem ,39 derece 55 dakika doğu boylamlarının kesiştiği noktada olup denizden yüksekliği 398 metredir. 1.761.261,29 dekarlık alanı ile Dünyanın en büyük çiftliğinin(TİGEM) bulunduğu Ceylanpınar’ın yerleşim yeri olarak ortaya çıkması 1921 yıllara dayanmakta olup Devlet Demir Yolu İstasyonunun olması ve Devlet Üretim Çiftliğinin iş gücü ihtiyacından dolayı komşu il ve ilçelerden sürekli nüfus göçü alarak 1937 yılında nahiye statüsüne kavuşmuştur.</p>
+
+			<p>Ceylanpınar’ın esas gelişimi ise 1943 yılına rastlar. 3130 sayılı kanunla Zirai Kombinalar Urfa Grup Amirliği adıyla kurulan ve daha sonra Devlet Üretme Çiftliği(D.Ü.Ç.) adını alan şimdiki Tarım İşletmesi’nin sağladığı ekonomik kaynaklar Ceylanpınar’ın gelişmesini sağlamıştır. Oldukça geniş ve düz bir alan üzerine kurulmuş bulunan Ceylanpınar’ın topraklarının yaklaşık %90 ı tarıma elverişli olup yer altı suları açısından Türkiye’nin en zengin yer altı su rezvleri bulunmaktadır.</p>
+
+			<p>İlçe sınırları içerisindeki toprakların büyük kısmı Tarım İşletmesine aittir.Tarım İşletmesinde Tarımsal ve hayvancılık yapılmaktadır. Tarımsal alanda; Bitkisel üretim, kuru ziraat ve sulu ziraatta başlıca: buğday, mercimek, pamuk, mısır, yonca, tohumluk fiğ, nohut ve bahçe kültürleri üretilmektedir. Hayvansal alanda ise sığırcılık, koyunculuk ve ceylan besiciliği yapılmakta olup, nesli tükenme tehlikesi ile karşı karşıya kalan ceylanlar koruma altına alınmak suretiyle sayısında artış sağlanmıştır. Ceylanpınar topraklarının büyük çoğunluğunun Tarım İşletmesine ait olması, iş alanlarını yaratmış, ama diğer taraftan köy sayısının az olmasına neden olmuştur. Halkın büyük çoğunluğu Tarım İşletmesinde daimi veya geçici işçi olarak çalışarak geçimlerini sağlamaktadır. Son yıllarda yeni iş alanlarının açılmaması ve iş imkânlarının sınırlı olması bu ilçeye olan göçlerin durmasına neden olmuştur.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>HALFETİ:</strong></p>
+
+			<p><a href="/images/halfeti-1b.jpg"><img alt="" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcSr9D1UTb9NeIrvTYnx_wLYzntMDCbCHsE9ioA4dT1pHhq7O6D8rg" style="height:150px; width:350px"></a></p>
+			İlçenin toplam nüfusu 2011 yılı verilerine göre 39 bin 893. Birecik Barajının yapımında Fırat Nehrinde su tutulması ilçe merkezinin büyük bir kısmı sular altında kalmıştır. İlçe halkı Karaotlak bölgesine taşınmıştır. Sular altında kalan eski Halfeti’nin turizm potansiyeli giderek artmaktadır. Burada turistlerin Rum Kaleye tekne turu yapılmaktadır. Su sporları her yıl düzenli olarak yapılırken zaman zaman ATV safari de düzenlenmektedir.
+
+			<p>Su seviyesinin yükselmesiyle nüfusun büyük bir bölümü Yukarıgöklü kasabası, Argıl kasabası ve Karaotlak’ da yaşamaya başladı. Bölgede en çok yetiştirilen tarım ürünlerinden biri de fıstıktır. Siyah Güllerin yetiştiği ilçe’de turizm her geçen gün gelişmektedir.</p>
+
+			<p>M.Ö.855 yılında Asur kralı III. Salmanassar tarafından zapt edildiği zaman Şitamrat adını taşıyordu. Yunanlılar bunu değiştirerek Urima adını vermişlerdir. Süryaniler ise Kal’a Rhomeyta ve Hesna the Romaye adlarını kullanmışlardır. Şehir Arapların eline geçtikten sonra Kal’at-ül Rum adı takılmıştır. II. yüzyılda Bizanslıların eline geçince bu kez Romaion Koyla adını almıştır.</p>
+
+			<p>İlçenin Güneyin de bulunan Yeşilözen, Fıstıközü, Bulaklı ve Kavaklıca köylerinde sulu tarım yapılmasına elverişli bir arazi yapısı görülür. İlçenin iklimi Fırat nehrinin etkisiyle bir mini klima oluşturur.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>HARRAN:</strong></p>
+
+			<p><a href="/images/harran-2b.jpg"><img alt="" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ3HAIiUWuw55PRIQvvGeuXKBLO51Y20IyssELjH0Qic8Omo8MFDg" style="height:150px; width:350px"></a></p>
+			Şanlıurfa"nın 44 km. güney doğusunda bulunan ve her yıl binlerce yerli ve yabancı turist tarafından ziyaret edilen tarihi kent Harran, kendi adıyla anılan ovanın merkezinde kurulmuştur. İlçe nüfusu 2011 yılı TUİK verilerine göre 68 bin 492 olup, 59.484’ü Köy ve mezralarda, 6.213’ü ’ise İlçe Merkezinde barınmaktadır. Buna göre nüfusun % 89 ’lük bölümü Köylerde % 11’lik bölümü ise merkezde yaşamaktadır.
+
+			<p>İlçede 99 köy 105 mezra bulunmaktadır.</p>
+
+			<p>Yukarı Mezopotamya’nın tabii bir parçası olarak kabul edilen İlçe toprakları, Doğudan-Kuzeye kadar uzanan Tek Tek Dağları ile sınırlanan İlçe, dağlık kesimi hariç tutulursa, Kuzeyden Güneye doğru açılan düz ve geniş bir ova görünümü arz eder. Yüzölçümü 704 Km2 ‘dir. Yazları sıcak ve kurak, kışları ise nispeten ılık geçer. Sıcaklık zaman zaman 40 dereceyi geçmektedir. Aralık ve Ocak aylardı ise en soğuk dönemidir. Bu aylarda gündüzleri 12-14 derece olan sıcaklık bazı geceler, ender de olsa (0) derecenin alına düşebilmektedir.</p>
+
+			<p>Bölgenin yağışları en bol olduğu dönem, Ekim-Nisan aylarıdır. Harran Ovasının özlemini çektiği GAP’ın devreye girmesiyle yörenin, makûs talihi değişmiş, sulu tarıma geçilerek büyük bir tarım potansiyeli oluşmuştur. Harran Ovası 852.000 dekardır. Kuru tarımdan sulu tarıma geçen Harran Ovası Türkiye’nin pamuk ihtiyacının yarısını karşılamaktadır. Hububat ekiminde ise Konya Ovasından sonra ikinci sıra gelmektedir.</p>
+
+			<p>Tevrat"ta da "Haran" olarak geçen yerin burası olduğu söylenir. İslâm tarihçileri kentin kuruluşunu Nuh Peygamber"in torunlarından Kaynan"a veya İbrahim Peygamber"in kardeşi "Aran"a (Haran) bağlarlar. XIII. yüzyıl tarihçilerinden İbn-i Şeddat, Hz. İbrahim"in Filistin’e gitmeden önce bu şehirde oturduğunu, bu nedenle Harran"a Hz. İbrahim"in şehri de denilmektedir.</p>
+
+			<p>Harran, Kuzey Mezopotamya"dan gelerek batı ve kuzey batıya bağlanan önemli ticaret yollarının kesiştiği bir noktada bulunmaktadır. Bu özelliğinden dolayı Harran, Anadolu ile sıkı ticaret ilişkileri bulunan Assurlu tüccarların önemli uğrak yerlerinden biri idi. Anadolu"dan Mezopotamya"ya, Mezopotamya"dan Anadolu"ya olan ticaret akışının binlerce yıl Harran üzerinden yapılmış olması bu tarihi kentte zengin bir kültür birikiminin oluşmasına neden olmuştur.</p>
+
+			<p>Harran; Ay, Güneş ve gezegenlerin kutsal sayıldığı eski Mezopotamya"daki Assur ve Babillerin politeist inancına dayanan Paganistliğin (Putperestlik) önemli merkezlerinden olması yönüyle de ünlü idi. Bu nedenledir ki Harran"da Astronomi ilmi çok ilerlemiştir. Dünyadaki üç büyük felsefe ekolünden birisi "Harran Ekolü"dür. İlkçağdan beri varlığı bilinen Harran Üniversitesi"nde dünyaca ünlü birçok bilgin yetişmiştir.</p>
+
+			<p>Emevi hükümdârlarından II. Mervan 744 yılında Harran"ı Emevi Devleti"nin başkenti yapmıştır. Emevilerin Asya bölümü 750 yılında Abbâsilere yenilerek Harran"da sona ermiştir. Abbâsi hükümdârı Harun Reşit zamanında "Harran Üniversitesi" dünyada büyük bir ün kazanmıştır.</p>
+
+			<p>Bugün Cüllab ve Deysan ırmakları kurumuş olduğundan Harran sudan ve yeşilden mahrum bir ovanın ortasında 5000 yıllık tarihi ile ayakta durmaktadır. Tipik evleri, höyügü, kalesi, şehir surları ve çeşitli mimari kalıntıları ile turistlerin büyük ilgisini çekmektedir.</p>
+
+			<p>Atatürk Barajı ve Urfa Tünelleri vasıtasıyla Harran Ovası"na akıtılan Fırat Nehri, Harran"ı Tarihteki yeşil ve verimli günlerine tekrar kavuşturmuştur. On yedinci yüzyılın ortalarında (1650 yılları) Harran"ın harap haline yetişen ünlü seyyah Evliya Çelebi burasını, "Şehir harap, evler toprak olup kalesinde insanoğlu kalmamıştır. Ancak kargir camileri, han ve hamamları kalıp diğer harap evler içerisinde çöl Arapları kışlamaktadır" cümleleriyle anlatmaktadır.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>HİLVAN:</strong></p>
+
+			<p><a href="/images/hilvan-1b.jpg"><img alt="" src="https://encrypted-tbn1.gstatic.com/images?q=tbn:ANd9GcSMYyEBKyYYUlxs-JDI8rkBT3Abahq94aKjjwD_lYfkEb_9bgKKsw" style="height:150px; width:350px"></a></p>
+			Hilvan ilçe nüfusu 2011 yılı verilerine göre 40 bin 901 İlçe merkezi toplam 5 mahalleden oluşmaktadır. Hilvan’a bağlı 2 bucak merkezi ile 62 köy ve 81 mezra bulunmaktadır. Diyarbakır-Şanlıurfa duble karayolu üzerinde olan Hilvan, Şanlıurfa’ya 56 uzaklıktadır.
+
+			<p>Hilvan’da sulama suyu sağlandıktan sonra pamuk üretimi önemli derecede artmıştır. Hayvancılık ilçe halkının bir diğer geçim kaynağı olup, dağlık ve engebeli kesimde sığır, koyun ve keçi yetiştirilir. Yağ, peynir, yün, deri, süt ve et üretilmektedir.</p>
+
+			<p>İlçede sanayi kuruluşu olarak Toprak Mahsulleri Ofisinin siloları, yem fabrikası ve mercimek paketleme fabrikası bulunmaktadır. Hilvan, Şanlıurfa ilinin en çok yağış alan ilçesidir. İlçede metrekareye düşen yıllık ortalama yağış miktarı 771.8 kg 'dır. Yıllık ısı ortalaması 18.2 derecedir. Hilvan 'ın deniz seviyesinden yüksekliği 600 m dir. Osmanlı döneminde 1820 yılında yöredeki göçebe aşiretlerin yerleşmesiyle “Karacurun” adıyla kurulan köy sonraki yıllarda başka aşiretlerin de gelmesiyle gelişmiş ve 1926 yılında 877 Sayılı Kanunla Şanlıurfa’ya bağlanarak “HİLVAN” adını almış ve İlçe merkezi olmuştur.</p>
+
+			<p>Arapça asıllı bir kelime olan Hilvan’ın sözlük anlamı ‘Bağış’ olup Meyveleriyle ünlü belde anlamına da gelmektedir. Hilvan’ın bazı köylerinde höyüklere rastlanılmaktadır. Bu höyüklerin arasının ova şeklinde olması nedeniyle çevre emniyetinin sağlanması amacıyla gözetleme yeri olarak yapılmıştır.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>SİVEREK:</strong></p>
+
+			<p><a href="/images/siverek-1b.jpg"><img alt="" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQJsBtnrzSnQoOvE4GPcqF7BrhUYUNhR3dxuS-caAvKB0fsTHCO" style="height:150px; width:350px"></a></p>
+			Şanlıurfa’ya 96 kilometre olan Siverek’in Nüfusu 2011 yılı TUİK verilerine göre 221 bin 875 kişidir. Denizden yüksekliği 840 metre olan Siverek’in sönmüş bir yanardağı da mevcuttur. Sönmüş yanardağ olan Karacadağ’da bir de kayak merkezi bulunmaktadır. Her yıl yüzlerce turist buraya kayak yapmaya geliyor.
+
+			<p>Ters lalesiyle de meşhur Siverek’te 20 girişimci üretim yapıyor. Her dalında 3 ila 8 lalenin ters büyüdüğü, boyu 60 ila 80 cm civarında olan ters lalenin kendine has yapısı bulunuyor. Hem soğan (kök) hem de çiçek olarak üretimi yapılan bitki, Türkiye'de en fazla Hakkâri, Adıyaman ve Şanlıurfa'nın Siverek ilçesinde yetişiyor. Ters laleler 1 ay boyunca su içerisinde kurumadan korunabiliyor.</p>
+
+			<p>Yüzölçümü 4 bin 314 kilometre olan İlçede, nüfusunun yüzde 80’ni tarım hayvancılık ve mevsimlik işlerde çalışarak geçimini sağlamakta.</p>
+
+			<p>Ören yerleri kazılarında M.Ö.3500-5000 yılları arası tarihlendirilmiş olup yaklaşık 7000 yıllık bir şehir tarihine sahiptir. Şehir, Asurlular döneminde yığma bir tepe üzerine inşa edilen kale etrafında kurulmuştur. Halid Bin Velid tarafından eyalet merkezi olmuş. Selçukluların Anadolu'ya girmesiyle, Melikşahın komutanlarından Bozan Bey tarafından (1097) Urfa Kontluğuna, daha sonra Musul Atabeyi Nureddin Zengi idaresine geçmiştir. 1400'lerde Timur'un tahribatından nasibini alan Siverek sırasıyla Mısırlıların (1426), Akkoyunluların (1435), İranlıların eline (1451) geçmiştir. Yavuz Sultan Selim'in Ridaniye Savaşı dönüşünde (1517) Osmanlı idaresine geçen şehir bu tarihten itibaren Diyarbekir Beylerbeyliğine Sancak Merkezi olarak Osmanlı idari taksimatında yerini almıştır.</p>
+
+			<p>Osmanlı idarecileri tarafından şehre camiler, hanlar, medreseler, hamamlar ve çarşılar yapılıp kalesi tamir edilmiştir. Siverek 1908 yılında Mutasarraflık yapılarak bugün Şanlıurfa ve Diyarbakır’ın ilçeleri olan Çermik, Hilvan (Karacurun), Viranşehir Siverek'e bağlanmıştır.</p>
+
+			<p>Milli mücadelede ve Urfa'nın kurtuluşunda çok büyük kahramanlıklar göstermiş, Cumhuriyetin ilanından sonra bütün bağımsız sancaklar vilayet yapılınca Siverek’te 1923 yılında vilayet olmuştur. Ancak 30 Mayıs 1926 Siverek Vilayetlikten İlçe yapılmış ve Urfa ’ya bağlanmıştır.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>SURUÇ:</strong></p>
+
+			<p><a href="/images/suruc-1b.jpg"><img alt="" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQUX5CC4oboAAR78yYjy7AlbOS4xCK3U_uqxiQfwQGMoWNT1DGlpQ" style="height:150px; width:350px"></a></p>
+			Gaziantep Şanlıurfa yolu üzerinde bulunan ilçenin Şanlıurfa’ya uzaklığı 45 km. Nüfusu 2011 yılı TUİK verilerine göre 100 bin 912.
+
+			<p>Eski çağların önemli ticaret yollarından biri, Harran'dan sonra buradan geçiyordu. M.Ö. III. yüzyılda Urfa bölgesinde kurulan Osrhoene Eyaleti'nin önemli bir şehri olan Suruç, 1517 yılında Yavuz Sultan Selim tarafından Osmanlı topraklarına katıldı. Suruç, Osmanlı döneminde Halep vilayetinin Urfa sancağına bağlı iken, 1923 yılında Urfa' ya bağlanarak ilçe haline getirildi.</p>
+
+			<p>1 Bucağı, 11 Nisan (Aligör) isimli beldesi, 77 köyü ve 153 mezrası bulunuyor. Evliya Çelebi’nin seyahatnamesinde yeşil bir olarak anlatılan Suruç, uzun yıllardır kuraklık yaşıyor. Şanlıurfa’da tarımsal sulamanın ilk yapıldığı Suruç ovası uzun yıllardır kuraklık çekiyor.</p>
+
+			<p>Ünlü nar bahçeleri ve nar’ıyla bilenen Suruç ovasına 2012 yılının sonuna doğru Atatürk Barajından su verilecek. Suruç sulama projesi adı altında yürütülen çalışmaların yüzde 80’ni şuan gerçekleşmiş durumda. 17 bin 185 metre uzunluğundaki tünel sayesinde Atatürk Barajı'ndan Suruç Ovası'na saniyede 90 ton su akıtılarak, Suruç ilçesi ve çevresindeki 134 yerleşim yerinde toplam 94 bin 814 hektarlık alan modern sistemlerle 2012 yılının sonunda sulanmaya başlanacak. Suruç sulama projesinin hayata geçmesiyle birlikte milli ekonomiye yılda 70 milyon dolar katkı sağlamasının yanı sıra 190 bin kişiye de doğrudan istihdam imkânı oluşturacak.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+
+<table border="0">
+	<tbody>
+		<tr>
+			<td>
+			<p><strong>VİRANŞEHİR:</strong></p>
+
+			<p><a href="/images/viran-1b.jpg"><img alt="" src="https://encrypted-tbn2.gstatic.com/images?q=tbn:ANd9GcQMYapG317dsK4g1JlRMkJAmxd7uSqZVVas6cwdojMaApx0EDB1dQ" style="height:150px; width:350px"></a></p>
+			Şanlıurfa’nın en eski ilçelerinden birisidir. Nüfusu 2011 yılı TUİK verilerine göre 168 bin 917. Yüzölçümü 1.843 metrekare, denizden yüksekliği ise 620 metredir. Tarihi İpek Yolu olarak bilinen E-90 karayolu ilçe merkezinden geçmektedir. Bu yol Şanlıurfa ilini Silopi Habur kapısı üzerinden Irak’a bağlamaktadır.
+
+			<p>Viranşehir’in 2 bucak,114 köy, 241 mezra bir de beldesi bulunmaktadır. Halkın geçim kaynağı tarım sektörü ve hayvancılıktır. İlçe de bulunan Eyüp Nebi Beldesinde Hz. Eyyüp peygamberin Türbesi Bulunmaktadır. Ayrıca Hz.El Yesa Peygamber Türbesi ve Hz.Rahime Hatun Türbesi bulunuyor. İnanç turizmi açısından her yıl yüzlerce turistin akınına uğruyor. Viranşehir’e bağlı Eyyüb nebi Beldesinde geleneksel olarak Eyyüb Nebi Sabır ödülleri düzenleniyor.</p>
+
+			<p>Viranşehir eski kadim kentlerin izlerini günümüze taşıyan, ender kentlerden biri. Yedi kez viran olan, ama her seferinde yaşamı yeniden inşa eden güçlü bir mirası özünde taşıyan mistik bir yerleşim yeri.</p>
+			</td>
+		</tr>
+	</tbody>
+</table>
+</div>
+
+<p style="color:#025075;margin:5px;padding:10px;background-color:#EEEEEE;float:left;width:734px;font-size:9pt">
+
+
+
+</div>
+
+		
+	
+</div>
+</body>
+</html>
